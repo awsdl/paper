@@ -1,0 +1,5 @@
+Question1: 12 × 7 =
+Question2: 7 ÷ 1 + 19 =
+Question3: 12 ÷ ( 18 ÷ 3 ) =
+Question4: 8 - ( 1 + 5 ) + 15 =
+Question5: ( 19 ÷ 2 ) + 6 =

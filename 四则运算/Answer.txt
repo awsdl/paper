@@ -1,0 +1,5 @@
+Answer0: 84
+Answer1: 26
+Answer2: 2
+Answer3: 17
+Answer4: 0
